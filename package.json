@@ -1,6 +1,6 @@
 {
   "name": "ots-sn-filename-reader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reads a file name and determines if it's a play-by-play file or some other type of file. If it is a play-by-play file, it can determine what sport it's for.",
   "author": "Clay Simmons <csimmons@onetwosee.com>",
   "preferGlobal": true,
